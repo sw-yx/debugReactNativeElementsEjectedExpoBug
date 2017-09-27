@@ -1,0 +1,11 @@
+dependencies: \
+  /Users/swyx/Desktop/webdev/fullstacksr/podcastRN/crossbones/node_modules/react-native/third-party/glog-0.3.4/src/symbolize.cc \
+  /Users/swyx/Desktop/webdev/fullstacksr/podcastRN/crossbones/node_modules/react-native/React/../third-party/glog-0.3.4/src/utilities.h \
+  /Users/swyx/Desktop/webdev/fullstacksr/podcastRN/crossbones/node_modules/react-native/React/../third-party/glog-0.3.4/src/base/mutex.h \
+  /Users/swyx/Desktop/webdev/fullstacksr/podcastRN/crossbones/node_modules/react-native/third-party/glog-0.3.4/src/config.h \
+  /Users/swyx/Desktop/webdev/fullstacksr/podcastRN/crossbones/node_modules/react-native/React/../third-party/glog-0.3.4/src/config.h \
+  /Users/swyx/Desktop/webdev/fullstacksr/podcastRN/crossbones/node_modules/react-native/React/../third-party/glog-0.3.4/src/glog/logging.h \
+  /Users/swyx/Desktop/webdev/fullstacksr/podcastRN/crossbones/node_modules/react-native/React/../third-party/glog-0.3.4/src/glog/log_severity.h \
+  /Users/swyx/Desktop/webdev/fullstacksr/podcastRN/crossbones/node_modules/react-native/React/../third-party/glog-0.3.4/src/glog/vlog_is_on.h \
+  /Users/swyx/Desktop/webdev/fullstacksr/podcastRN/crossbones/node_modules/react-native/React/../third-party/glog-0.3.4/src/symbolize.h \
+  /Users/swyx/Desktop/webdev/fullstacksr/podcastRN/crossbones/node_modules/react-native/React/../third-party/glog-0.3.4/src/demangle.h

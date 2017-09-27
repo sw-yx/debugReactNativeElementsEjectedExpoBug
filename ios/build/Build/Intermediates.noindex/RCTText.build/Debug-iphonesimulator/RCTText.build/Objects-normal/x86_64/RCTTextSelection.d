@@ -1,0 +1,15 @@
+dependencies: \
+  /Users/swyx/Desktop/webdev/fullstacksr/podcastRN/crossbones/node_modules/react-native/Libraries/Text/RCTTextSelection.m \
+  /Users/swyx/Desktop/webdev/fullstacksr/podcastRN/crossbones/node_modules/react-native/Libraries/Text/RCTTextSelection.h \
+  /Users/swyx/Desktop/webdev/fullstacksr/podcastRN/crossbones/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/swyx/Desktop/webdev/fullstacksr/podcastRN/crossbones/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/swyx/Desktop/webdev/fullstacksr/podcastRN/crossbones/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/swyx/Desktop/webdev/fullstacksr/podcastRN/crossbones/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/swyx/Desktop/webdev/fullstacksr/podcastRN/crossbones/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/swyx/Desktop/webdev/fullstacksr/podcastRN/crossbones/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/swyx/Desktop/webdev/fullstacksr/podcastRN/crossbones/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/swyx/Desktop/webdev/fullstacksr/podcastRN/crossbones/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/swyx/Desktop/webdev/fullstacksr/podcastRN/crossbones/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/swyx/Desktop/webdev/fullstacksr/podcastRN/crossbones/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/swyx/Desktop/webdev/fullstacksr/podcastRN/crossbones/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/swyx/Desktop/webdev/fullstacksr/podcastRN/crossbones/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h
